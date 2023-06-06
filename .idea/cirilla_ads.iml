@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/packages/paypal_gateway/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/paypal_gateway/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/paypal_gateway/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/chat_gpt/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/chat_gpt/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/chat_gpt/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/iframe_view/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/iframe_view/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/iframe_view/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/chat_gpt/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/chat_gpt/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/chat_gpt/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_html_all/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_html_all/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_html_all/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_html_iframe_pro/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_html_iframe_pro/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_html_iframe_pro/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/woo_booking/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/woo_booking/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/woo_booking/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/payment_base/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/payment_base/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/payment_base/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_html_iframe/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_html_iframe/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_html_iframe/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_gateway/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_gateway/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/stripe_gateway/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/razorpay_gateway/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/razorpay_gateway/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/razorpay_gateway/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+  </component>
+</module>
